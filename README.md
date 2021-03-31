@@ -1,4 +1,4 @@
-# Space-Managed-Express-Route-Service
+# Space Managed Express Route Service
 
 
 The increasing importance of Cloud services brings new challenges to customers who need Security, Reliability and Performance when accessing their Cloud data. The Internet’s unreliability and questionable security keeps many enterprises from adopting cloud services. 
